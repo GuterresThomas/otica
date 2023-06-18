@@ -21,6 +21,8 @@ body {
   
   /* header */
   
+  
+
   .header {
     background-color: #0941FA;
     position: fixed;
@@ -73,8 +75,7 @@ body {
   .header .menu-icon {
     cursor: pointer;
     display: inline-block;
-    
-    padding: 28px 60px;
+    padding: 28px 30px;
     position: relative;
     user-select: none;
   }
